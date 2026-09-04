@@ -209,7 +209,7 @@ p.note { display: none; }
 <h2><span class="yellow">ここからも那須の山々が見えました</span></h2>
 <a href="20260905_00023.jpeg" target="_blank"><img src="20260905_00023.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">田んぼの向こうには関東に電波と飛ばす電波塔の山羽黒山が、那須連山の手前にポコっと見えます</span></h2>
+<h2><span class="yellow">田んぼの向こうには関東に電波と飛ばす電波塔の山「羽黒山」が、那須連山の手前にポコっと見えます</span></h2>
 <a href="20260905_00024.jpeg" target="_blank"><img src="20260905_00024.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">5階駐車場からFKD店内を見下ろしました</span></h2>
